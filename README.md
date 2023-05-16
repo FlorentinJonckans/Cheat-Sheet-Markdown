@@ -79,6 +79,4 @@ H ~2 ~O
 Superscript	
 X ^2^
 
-~~~html
-  <div align="center">Texte ou image</div>
-~~~
+<h1 align="center">Florentin JONCKANS</h1>
