@@ -7,6 +7,7 @@ Heading
 
 Bold	
 **bold text**
+[u]Texte[/u]
 
 Italic	
 *italicized text*
