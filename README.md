@@ -80,5 +80,5 @@ Superscript
 X ^2^
 
 ~~~html
-<center>>Du code</center>
+<center>Du code</center>
 ~~~
