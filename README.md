@@ -79,4 +79,4 @@ H ~2 ~O
 Superscript	
 X ^2^
 
-[right]Texte[/right]
+<center>Texteqsdhflqsjhsl</center>
