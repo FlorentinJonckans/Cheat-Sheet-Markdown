@@ -80,5 +80,5 @@ Superscript
 X ^2^
 
 ~~~html
-[center]Textsdgcvfsdce[/center]
+  <div align="center">Texte ou image</div>
 ~~~
