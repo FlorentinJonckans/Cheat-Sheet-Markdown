@@ -79,4 +79,6 @@ H ~2 ~O
 Superscript	
 X ^2^
 
-<center>Texteqsdhflqsjhsl</center>
+~~~html
+<center>>Du code</center>
+~~~
