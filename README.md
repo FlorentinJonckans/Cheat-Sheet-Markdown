@@ -7,7 +7,6 @@ Heading
 
 Bold	
 **bold text**
-[u]Texte[/u]
 
 Italic	
 *italicized text*
@@ -75,7 +74,9 @@ Highlight	I need to highlight these
 ==very important words==.
 
 Subscript	
-H~2~O
+H ~2 ~O
 
 Superscript	
-X^2^
+X ^2^
+
+[right]Texte[/right]
