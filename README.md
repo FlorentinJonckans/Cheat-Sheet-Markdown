@@ -14,6 +14,11 @@
 | Unordered List | `- First item` | <ul><li>First item</li></ul> |
 |  | `- Second item` | <ul><li>Second item</li></ul> |
 |  | `- Third item` | <ul><li>Third item</li></ul> |
+| Code | `myCode` | `myCode` |
+| Horizontal Rule	 | `---` | <hr /> |
+| Link | `[title](https://www.example.com)` | <a href="">Link</a> |
+| Image | `![alt text](image.jpg)` | <img src="https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg" heigh="100" width="100"></img> |
+| Footnote | `Here's a sentence with a footnote. [^1]` | <p>Here's a sentence with a footnote.<a href="">[1]</a></p> |
 
 
 
