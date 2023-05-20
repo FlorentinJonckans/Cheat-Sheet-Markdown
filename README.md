@@ -8,11 +8,12 @@
 | Bold | `**bold text**` | <b>Bold</b> |
 | Italic | `*italicized text*` | <i>Italic</i> |
 | Blockquote | `> blockquote` | <blockquote cite="https://www.huxley.net/bnw/four.html"><p>Blockquote</p></blockquote> |
-| Heading | `# H1` | <h1>H1</h1> |
-| Heading | `# H1` | <h1>H1</h1> |
-| Heading | `# H1` | <h1>H1</h1> |
-| Heading | `# H1` | <h1>H1</h1> |
-| Heading | `# H1` | <h1>H1</h1> |
+| Ordered List | `1. First item` | <ol><li>First item</li></ol> |
+|  | `2. Second item` | <ol start="2"><li>Second item</li></ol> |
+|  | `3. Third item` | <ol start="3"><li>Third item</li></ol> |
+| Unordered List | `- First item` | <ul><li>First item</li></ul> |
+|  | `- Second item` | <ul><li>Second item</li></ul> |
+|  | `- Third item` | <ul><li>Third item</li></ul> |
 
 
 
