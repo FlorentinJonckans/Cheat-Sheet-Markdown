@@ -5,6 +5,14 @@
 | Heading | `# H1` | <h1>H1</h1> |
 |  | `## H2` | <h2>H2</h2> |
 |  | `### H3` | <h3>H3</h3> |
+| Bold | `**bold text**` | <b>Bold</b> |
+| Italic | `*italicized text*` | <i>Italic</i> |
+| Blockquote | `> blockquote` | <blockquote cite="https://www.huxley.net/bnw/four.html"><p>Blockquote</p></blockquote> |
+| Heading | `# H1` | <h1>H1</h1> |
+| Heading | `# H1` | <h1>H1</h1> |
+| Heading | `# H1` | <h1>H1</h1> |
+| Heading | `# H1` | <h1>H1</h1> |
+| Heading | `# H1` | <h1>H1</h1> |
 
 
 
